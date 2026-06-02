@@ -1,0 +1,2 @@
+# hamburgroyalspielbank
+Static site: hamburgroyalspielbank
